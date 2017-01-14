@@ -1,0 +1,1453 @@
+ Volume in drive G is Files
+ Volume Serial Number is 409C-01A5
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello
+
+01/13/2017  07:38 PM    <DIR>          .
+01/13/2017  07:38 PM    <DIR>          ..
+01/09/2017  01:20 PM    <DIR>          css
+01/13/2017  07:38 PM                 0 dir.txt
+01/09/2017  01:11 PM    <DIR>          font-awesome
+01/09/2017  01:11 PM    <DIR>          fonts
+01/06/2017  05:09 PM    <DIR>          icon
+01/13/2017  07:23 PM    <DIR>          img
+01/12/2017  12:45 PM            21,743 index - Copy.html
+01/12/2017  02:40 PM            34,468 index.html
+01/09/2017  01:20 PM    <DIR>          js
+08/19/2016  01:37 PM    <DIR>          less
+08/19/2016  01:37 PM    <DIR>          mail
+01/13/2017  07:14 PM                26 README.md
+08/19/2016  01:37 PM    <DIR>          scss
+08/19/2016  01:37 PM    <DIR>          vendor
+               4 File(s)         56,237 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git
+
+01/13/2017  07:25 PM                11 COMMIT_EDITMSG
+01/13/2017  07:15 PM               243 config
+01/13/2017  07:14 PM                73 description
+01/13/2017  07:14 PM                23 HEAD
+01/13/2017  07:14 PM    <DIR>          hooks
+01/13/2017  07:25 PM            14,926 index
+01/13/2017  07:14 PM    <DIR>          info
+01/13/2017  07:15 PM    <DIR>          logs
+01/13/2017  07:25 PM    <DIR>          objects
+01/13/2017  07:14 PM    <DIR>          refs
+               5 File(s)         15,276 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\hooks
+
+01/13/2017  07:14 PM    <DIR>          .
+01/13/2017  07:14 PM    <DIR>          ..
+01/13/2017  07:14 PM               478 applypatch-msg.sample
+01/13/2017  07:14 PM               896 commit-msg.sample
+01/13/2017  07:14 PM               189 post-update.sample
+01/13/2017  07:14 PM               424 pre-applypatch.sample
+01/13/2017  07:14 PM             1,642 pre-commit.sample
+01/13/2017  07:14 PM             1,348 pre-push.sample
+01/13/2017  07:14 PM             4,951 pre-rebase.sample
+01/13/2017  07:14 PM               544 pre-receive.sample
+01/13/2017  07:14 PM             1,239 prepare-commit-msg.sample
+01/13/2017  07:14 PM             3,610 update.sample
+              10 File(s)         15,321 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\info
+
+01/13/2017  07:14 PM    <DIR>          .
+01/13/2017  07:14 PM    <DIR>          ..
+01/13/2017  07:14 PM               240 exclude
+               1 File(s)            240 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\logs
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:25 PM               316 HEAD
+01/13/2017  07:15 PM    <DIR>          refs
+               1 File(s)            316 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\logs\refs
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM    <DIR>          heads
+               0 File(s)              0 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\logs\refs\heads
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:25 PM               316 master
+               1 File(s)            316 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects
+
+01/13/2017  07:25 PM    <DIR>          .
+01/13/2017  07:25 PM    <DIR>          ..
+01/13/2017  07:15 PM    <DIR>          00
+01/13/2017  07:15 PM    <DIR>          01
+01/13/2017  07:15 PM    <DIR>          02
+01/13/2017  07:15 PM    <DIR>          05
+01/13/2017  07:15 PM    <DIR>          06
+01/13/2017  07:15 PM    <DIR>          07
+01/13/2017  07:15 PM    <DIR>          08
+01/13/2017  07:15 PM    <DIR>          0b
+01/13/2017  07:15 PM    <DIR>          0c
+01/13/2017  07:15 PM    <DIR>          0d
+01/13/2017  07:15 PM    <DIR>          0e
+01/13/2017  07:15 PM    <DIR>          11
+01/13/2017  07:15 PM    <DIR>          14
+01/13/2017  07:15 PM    <DIR>          16
+01/13/2017  07:15 PM    <DIR>          17
+01/13/2017  07:15 PM    <DIR>          19
+01/13/2017  07:15 PM    <DIR>          1a
+01/13/2017  07:25 PM    <DIR>          1b
+01/13/2017  07:15 PM    <DIR>          1d
+01/13/2017  07:15 PM    <DIR>          23
+01/13/2017  07:15 PM    <DIR>          24
+01/13/2017  07:15 PM    <DIR>          29
+01/13/2017  07:15 PM    <DIR>          2b
+01/13/2017  07:15 PM    <DIR>          2e
+01/13/2017  07:15 PM    <DIR>          2f
+01/13/2017  07:15 PM    <DIR>          32
+01/13/2017  07:15 PM    <DIR>          37
+01/13/2017  07:15 PM    <DIR>          3f
+01/13/2017  07:15 PM    <DIR>          40
+01/13/2017  07:15 PM    <DIR>          41
+01/13/2017  07:15 PM    <DIR>          44
+01/13/2017  07:15 PM    <DIR>          45
+01/13/2017  07:15 PM    <DIR>          47
+01/13/2017  07:15 PM    <DIR>          48
+01/13/2017  07:15 PM    <DIR>          4a
+01/13/2017  07:15 PM    <DIR>          4e
+01/13/2017  07:15 PM    <DIR>          55
+01/13/2017  07:15 PM    <DIR>          58
+01/13/2017  07:15 PM    <DIR>          59
+01/13/2017  07:15 PM    <DIR>          5d
+01/13/2017  07:15 PM    <DIR>          5f
+01/13/2017  07:15 PM    <DIR>          60
+01/13/2017  07:15 PM    <DIR>          61
+01/13/2017  07:15 PM    <DIR>          62
+01/13/2017  07:15 PM    <DIR>          63
+01/13/2017  07:15 PM    <DIR>          64
+01/13/2017  07:15 PM    <DIR>          65
+01/13/2017  07:15 PM    <DIR>          66
+01/13/2017  07:15 PM    <DIR>          67
+01/13/2017  07:15 PM    <DIR>          6e
+01/13/2017  07:15 PM    <DIR>          74
+01/13/2017  07:15 PM    <DIR>          7a
+01/13/2017  07:15 PM    <DIR>          7b
+01/13/2017  07:15 PM    <DIR>          7c
+01/13/2017  07:15 PM    <DIR>          7d
+01/13/2017  07:15 PM    <DIR>          7e
+01/13/2017  07:15 PM    <DIR>          7f
+01/13/2017  07:15 PM    <DIR>          81
+01/13/2017  07:15 PM    <DIR>          82
+01/13/2017  07:15 PM    <DIR>          83
+01/13/2017  07:15 PM    <DIR>          84
+01/13/2017  07:25 PM    <DIR>          8a
+01/13/2017  07:15 PM    <DIR>          8b
+01/13/2017  07:15 PM    <DIR>          8d
+01/13/2017  07:25 PM    <DIR>          91
+01/13/2017  07:15 PM    <DIR>          94
+01/13/2017  07:15 PM    <DIR>          95
+01/13/2017  07:15 PM    <DIR>          96
+01/13/2017  07:15 PM    <DIR>          9b
+01/13/2017  07:25 PM    <DIR>          9c
+01/13/2017  07:15 PM    <DIR>          9d
+01/13/2017  07:15 PM    <DIR>          9e
+01/13/2017  07:15 PM    <DIR>          a0
+01/13/2017  07:15 PM    <DIR>          a1
+01/13/2017  07:15 PM    <DIR>          a3
+01/13/2017  07:15 PM    <DIR>          a4
+01/13/2017  07:15 PM    <DIR>          a5
+01/13/2017  07:15 PM    <DIR>          aa
+01/13/2017  07:15 PM    <DIR>          ad
+01/13/2017  07:15 PM    <DIR>          ae
+01/13/2017  07:15 PM    <DIR>          b2
+01/13/2017  07:15 PM    <DIR>          b4
+01/13/2017  07:15 PM    <DIR>          b5
+01/13/2017  07:15 PM    <DIR>          b7
+01/13/2017  07:15 PM    <DIR>          b9
+01/13/2017  07:15 PM    <DIR>          ba
+01/13/2017  07:15 PM    <DIR>          bb
+01/13/2017  07:15 PM    <DIR>          bc
+01/13/2017  07:15 PM    <DIR>          bd
+01/13/2017  07:15 PM    <DIR>          be
+01/13/2017  07:15 PM    <DIR>          c0
+01/13/2017  07:15 PM    <DIR>          c3
+01/13/2017  07:15 PM    <DIR>          c4
+01/13/2017  07:15 PM    <DIR>          c5
+01/13/2017  07:15 PM    <DIR>          c7
+01/13/2017  07:15 PM    <DIR>          c9
+01/13/2017  07:15 PM    <DIR>          ca
+01/13/2017  07:15 PM    <DIR>          cc
+01/13/2017  07:15 PM    <DIR>          d2
+01/13/2017  07:15 PM    <DIR>          d4
+01/13/2017  07:15 PM    <DIR>          d6
+01/13/2017  07:15 PM    <DIR>          d8
+01/13/2017  07:15 PM    <DIR>          d9
+01/13/2017  07:15 PM    <DIR>          db
+01/13/2017  07:15 PM    <DIR>          df
+01/13/2017  07:15 PM    <DIR>          e2
+01/13/2017  07:15 PM    <DIR>          e3
+01/13/2017  07:15 PM    <DIR>          e8
+01/13/2017  07:15 PM    <DIR>          ec
+01/13/2017  07:15 PM    <DIR>          ed
+01/13/2017  07:15 PM    <DIR>          ef
+01/13/2017  07:15 PM    <DIR>          f0
+01/13/2017  07:15 PM    <DIR>          f1
+01/13/2017  07:15 PM    <DIR>          f2
+01/13/2017  07:25 PM    <DIR>          f3
+01/13/2017  07:15 PM    <DIR>          f6
+01/13/2017  07:25 PM    <DIR>          f9
+01/13/2017  07:15 PM    <DIR>          fc
+01/13/2017  07:15 PM    <DIR>          fd
+01/13/2017  07:14 PM    <DIR>          info
+01/13/2017  07:14 PM    <DIR>          pack
+               0 File(s)              0 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\00
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM             4,578 2869e55747b44b2b782b19963df220e85bacb7
+01/13/2017  07:15 PM               182 2c5d5c5bf90cf78b9c07107c2102d0c725ca35
+               2 File(s)          4,760 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\01
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM               273 d1910f7201d44823ccfd67a2ad313e9f12f9ad
+               1 File(s)            273 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\02
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM               122 d28823aca410de4919b494264a35f4a2acc388
+               1 File(s)            122 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\05
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM               184 5f024dbe7e847f83cdeb23fc06ab2be210abfa
+               1 File(s)            184 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\06
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM                40 6408edda1a8a51a3ec4cfd0d50c3210ec610f9
+               1 File(s)             40 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\07
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM               542 41c0a0bd6a4d06ccd0bd05d25ae96ee0b27c96
+               1 File(s)            542 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\08
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM                89 81c1324fa2a3d36bee451c3897c740c0a79c7a
+               1 File(s)             89 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\0b
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM               222 440382f61f0bb1683e5b15c2a00e4e398f9980
+               1 File(s)            222 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\0c
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM               192 90eb5672b04fc66edcc99f003e15fc638e279c
+               1 File(s)            192 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\0d
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM               305 26c00975e33cf571f91ee89fb13d42ff0b4adb
+01/13/2017  07:15 PM           403,032 41ef88e06881fa263c6c41afa99be2f177f38e
+01/13/2017  07:15 PM           237,923 cbc5492b8ea05445ef8f5529df9b8312153ae2
+               3 File(s)        641,260 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\0e
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM             3,694 850b45aa9ab159f104d71bde553f5d0ead3ed8
+01/13/2017  07:15 PM             6,970 adb7923ef745db34c7b680f1ddeb3ba7c93aa1
+               2 File(s)         10,664 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\11
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM               109 0289f2f4b5260ce04dd035408961f1e4f2785b
+01/13/2017  07:15 PM                77 c188196d5ade55930b7b94fc5a1dd0f6d1a800
+               2 File(s)            186 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\14
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM               187 032aabd85b43a058cfc7025dd4fa9dd325ea97
+01/13/2017  07:15 PM            24,964 13fc609ab6f21774de0cb7e01360095584f65b
+               2 File(s)         25,151 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\16
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM           202,702 0c88325879b68c401639c3189db7ca7599fd48
+               1 File(s)        202,702 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\17
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM           135,300 d9c7204862039f1d5822aceaad5392fb070aca
+               1 File(s)        135,300 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\19
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM               231 5fd46c669e750b7a52c8d4b7521616f80ddbc0
+               1 File(s)            231 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\1a
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM           133,042 333bba1ac3bfe09875dd805ae0fe5f60d6b41c
+               1 File(s)        133,042 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\1b
+
+01/13/2017  07:25 PM    <DIR>          .
+01/13/2017  07:25 PM    <DIR>          ..
+01/13/2017  07:25 PM               154 62db2e1b05ff705ef1cfcf07290db1983d5ff9
+               1 File(s)            154 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\1d
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM             1,578 bba6f43af8459e51d476a86a2c01d2d81ae84c
+               1 File(s)          1,578 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\23
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM               235 08b14ca7c27e6ea02f874e9ab7456032a7d007
+               1 File(s)            235 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\24
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM            15,330 b4e5bc4e0600118dce36b3f6a3e0e8365b6398
+               1 File(s)         15,330 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\29
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM             7,081 44344350f3fab4741095812606ecb48be18fab
+01/13/2017  07:15 PM             2,375 be11dced8bb47aeb60525c306420aac79fefd5
+01/13/2017  07:15 PM            14,233 c4086180da11a4119844bd22c70d432b004f6a
+               3 File(s)         23,689 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\2b
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM             6,183 3381975e9e6ba8b0bf98ee86abf264ad158cb7
+               1 File(s)          6,183 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\2e
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM            18,059 5b4b6dd9f281320e5ad5791a751946ee43766e
+               1 File(s)         18,059 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\2f
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM               129 a573766ef57bdaf2265212afc98b1d00172796
+               1 File(s)            129 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\32
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM               404 463c669fe41a2ee411f7721a599c8265bbc39b
+               1 File(s)            404 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\37
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM           214,768 95c25463a09ac47bcb88ef9c0c43ee54487d96
+01/13/2017  07:15 PM           236,017 eb39cdaaefa72241597ab6bc3591a2c4f588fd
+               2 File(s)        450,785 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\3f
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM             1,676 308535e3d2a9c1ec47cc28aa14068c0e5ef29a
+01/13/2017  07:15 PM               122 d2fffd66e6febc2e4e9a9a1669009f4c722cc9
+               2 File(s)          1,798 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\40
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM             5,992 40b3cf859f6bb6b9bb349720af23a5e1cd277c
+               1 File(s)          5,992 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\41
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM               129 6d6e0b5bed1403ec1fde39459a84846c432323
+01/13/2017  07:15 PM               195 e9a8184aa287c5970cc8415e3c5a6310dc9f79
+               2 File(s)            324 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\44
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM             1,579 ce8893b57438e337041a8c2490e03f239074f4
+               1 File(s)          1,579 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\45
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM            11,850 2716c83a1426f0d920137b3ea57158b3fcb888
+               1 File(s)         11,850 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\47
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM               428 2e3988fbfff08e5981ff17dd7bdfa1ae218ba4
+               1 File(s)            428 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\48
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM            12,318 f1ad72374db745f127cbc88c90a2ac4232846f
+               1 File(s)         12,318 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\4a
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM             4,776 43210176f7b5b1e637a35f993dc4a280445810
+               1 File(s)          4,776 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\4e
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM           187,223 c0bac606330e49b55d99664a8a05b5dc966bc2
+               1 File(s)        187,223 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\55
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM            88,765 d44a3807dfc80041f18d29dcff47a2e1637d34
+               1 File(s)         88,765 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\58
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM               164 3f9f6cd96fc10c7a3cd9bd77c28ae246b79657
+               1 File(s)            164 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\59
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM               101 a2555ef9bba9b3507721b9686c3f92a99be37a
+               1 File(s)            101 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\5d
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM             5,742 148aa95b3721ea27fda4476b371e38a35577cd
+01/13/2017  07:15 PM             1,931 70a8705d5e8399e33a45a02bab7a76b01789a7
+               2 File(s)          7,673 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\5f
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM               208 c38659133029ba9c53604068e2923508c4ef37
+               1 File(s)            208 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\60
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM               128 d305cb2c730327287831469f5cfd21af01d350
+               1 File(s)            128 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\61
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM            28,336 67622cecfb5c0f04156363565e3d4109fc55c5
+               1 File(s)         28,336 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\62
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM            65,471 8b6a52a87e62c6f22426e17c01f6a303aa194e
+               1 File(s)         65,471 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\63
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM                86 7426f0da6dcef3602d764d9e359dabb4a5a862
+               1 File(s)             86 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\64
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM            18,055 539b54c3751a6d9adb44c8e3a45ba5a73b77f0
+               1 File(s)         18,055 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\65
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM                90 fd9618ef56fd37d09315123b2c7525904641f0
+               1 File(s)             90 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\66
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM             4,580 9c307fb64146bbd70f195b092060d34b54c27c
+01/13/2017  07:15 PM               200 ad52a5ba052ced428dcc7ec7016bc25438a2ca
+               2 File(s)          4,780 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\67
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM           563,184 ce69463186496649f7a1a10ddf5876c8124efa
+               1 File(s)        563,184 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\6e
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM             3,753 122a96a1e412d4e04c62e4bd0726f0cae05ac5
+01/13/2017  07:15 PM               180 1564e05eb10656c2ae592e9f041cb5ef8037e6
+01/13/2017  07:15 PM            90,345 7483cf61b490c08ed644d6ef802c69472eb247
+01/13/2017  07:15 PM             7,308 d1b35a84a160087c41305b4b17749eac29bb11
+               4 File(s)        101,586 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\74
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM               285 25ef85fc80ce6b035065906fc27490715e3733
+               1 File(s)            285 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\7a
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM           950,097 df840285c5d1f32811f739c58670f7841327b7
+               1 File(s)        950,097 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\7b
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM             8,185 3b922251428a6f19cb367de5fc58ec0956089b
+               1 File(s)          8,185 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\7c
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM                82 7fe43bfc56653d8307373be080584a04e7c495
+               1 File(s)             82 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\7d
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM               220 1e4d54d6c293333eb638aa56feba7b62e15564
+               1 File(s)            220 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\7e
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM               496 6c72a99aaa258c25ceb86fda654e712c18b93c
+01/13/2017  07:15 PM            71,909 b74fd127ee5eddf3b95fee6a20dc1684b0963b
+               2 File(s)         72,405 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\7f
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM           106,735 c60fca78b6201f814da4b2906cae2b69ee9610
+               1 File(s)        106,735 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\81
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM           937,784 1c31309d5efa1af1bf5064c33525d8f55ff51f
+01/13/2017  07:15 PM            70,934 c9ad949b47f64afeca5642ee2494b6e3147f44
+               2 File(s)      1,008,718 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\82
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM        69,212,421 a5f47cdbc96d794343150b40f020d2a8759fa4
+               1 File(s)     69,212,421 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\83
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM               482 0568b9351646be5befae3037dd92dd06d74666
+01/13/2017  07:15 PM               284 5be41f8151b6439f799be29ec7921af1b72593
+               2 File(s)            766 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\84
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM           265,418 245f165a5317fec98b0793112a39da2ab01088
+01/13/2017  07:15 PM            55,993 677bc0c5f37f1fac9d87548c4554b5c91717cf
+               2 File(s)        321,411 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\8a
+
+01/13/2017  07:25 PM    <DIR>          .
+01/13/2017  07:25 PM    <DIR>          ..
+01/13/2017  07:15 PM               207 020dbfff7822bf57c7217eafdaa4884b8aa943
+01/13/2017  07:15 PM            18,563 2e99a535d47e5798b167d1074ae2c77cab21e7
+01/13/2017  07:25 PM               707 35db7e58c2c706eb4912f617e3b716165f4038
+               3 File(s)         19,477 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\8b
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM           141,675 66187fe067c3aa389ce8c98108f349ceae159c
+01/13/2017  07:15 PM           117,386 e9017864d28373699ea8e4fee82ffa23fb1b34
+               2 File(s)        259,061 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\8d
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM             5,229 c29394cc3d78bd5b502542735343b4922f588b
+               1 File(s)          5,229 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\91
+
+01/13/2017  07:25 PM    <DIR>          .
+01/13/2017  07:25 PM    <DIR>          ..
+01/13/2017  07:25 PM               301 5f340142b80581a71f1b85db67675db9ce372f
+               1 File(s)            301 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\94
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM            33,301 fb5490a2ed10b2c69a4a567a4fd2e4f706d841
+               1 File(s)         33,301 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\95
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM               480 c7ec786c09e8755373faad1cbf3b4b875d9958
+               1 File(s)            480 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\96
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM           200,043 48b85a316648487a44c853a141c27b39832abe
+01/13/2017  07:15 PM            69,511 a3639cdde5e8ab459c6380e3b9524ee81641dc
+               2 File(s)        269,554 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\9b
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM             7,497 27f8ea8f8da544b622a801c4a47f73e3865929
+01/13/2017  07:15 PM            11,890 cd2fccaed9442f1460191d6670ca5e8e08520c
+               2 File(s)         19,387 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\9c
+
+01/13/2017  07:25 PM    <DIR>          .
+01/13/2017  07:25 PM    <DIR>          ..
+01/13/2017  07:25 PM               217 ea450feffb1a751f21100f131f7728dc5288ab
+               1 File(s)            217 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\9d
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM               192 3fdf3a0b477ffa6e9c1378bf7f0636c1f43c1e
+01/13/2017  07:15 PM           349,805 a5dcfa19404c4d8adcd6cde138d8e3fd9f588a
+               2 File(s)        349,997 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\9e
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM            23,210 612858f802245ddcbf59788a0db942224bab35
+               1 File(s)         23,210 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\a0
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM           361,091 47a27d3a6cd56ef969085258d1172e3bc6a4b0
+01/13/2017  07:15 PM             7,925 b879fa0006d7ad46c994024196228753d678b3
+               2 File(s)        369,016 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\a1
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM               394 39dfb30e2c5323a4129d37ecc209f5f0acf30b
+               1 File(s)            394 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\a3
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM               240 558fd09ca7cb968166d5445f4df1a0bc2d5a7e
+               1 File(s)            240 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\a4
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM               214 1d4debd14cda4d9f31eddc5bdadc3cf6cf4331
+01/13/2017  07:15 PM               446 9e7780ef32a3214c0280b714cac9fa7fef5fb2
+               2 File(s)            660 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\a5
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM           740,682 a3b67f60fdd647af4fab72b45a0d0236ca1da4
+01/13/2017  07:15 PM             6,197 a89ef97bcfa214b44b81d0cdb488cca416420e
+01/13/2017  07:15 PM               118 e3fcb723f857abbe6a1fbcf0437a9c0d14f1a8
+               3 File(s)        746,997 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\aa
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM                83 5ba28a35296b60925d58ccaa113b77f5df91f0
+               1 File(s)             83 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\ad
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM           171,312 4747f498321329f9b7a27ee51d1c1dee9ce848
+               1 File(s)        171,312 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\ae
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM               236 f7403660c9a2ccc02a264c62c6b105f7d8d532
+               1 File(s)            236 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\b2
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM               110 21c98133a4d4a8449c848ccb69bf631d1c3e5d
+               1 File(s)            110 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\b4
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM               615 828a3aa30d3aad3fbab6695344c08e7685668d
+01/13/2017  07:15 PM                85 e855394845cb2f5fa1aed506edf4c70434414a
+               2 File(s)            700 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\b5
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM             5,213 c26c701b6643df99a1e97c387a30f8c10d94a0
+               1 File(s)          5,213 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\b7
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM               402 bfadc797ce350fe8ee28e5b5da3af7e414f1df
+               1 File(s)            402 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\b9
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM            20,060 3a4953fff68df523aa7656497ee339d6026d64
+01/13/2017  07:15 PM           224,798 77fe8b80f692070871b39673d0df64e0faae8d
+               2 File(s)        244,858 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\ba
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM             7,057 21b222d6ff0e0f604d99acf34dca0ce2bd9066
+               1 File(s)          7,057 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\bb
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM               285 457c23a8e4e0688ebd9383e34ab9f2b3acecab
+01/13/2017  07:15 PM               773 55fe3204119128afcb661f9951aa4e262156dd
+               2 File(s)          1,058 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\bc
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM         1,315,409 fca7c8d5a2b32264ed7cc01f0fb5ce0ab87394
+               1 File(s)      1,315,409 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\bd
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM                86 083286051cd869ee6485a3046b9935fbd127c0
+               1 File(s)             86 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\be
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM             2,584 c373c8e09651d67619cde756c31c782c320700
+01/13/2017  07:15 PM               780 ef231d0e176a47375d93fb7365270eea52f7b4
+               2 File(s)          3,364 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\c0
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM           327,746 bf0b42666af5443e07e220b45931776d740c6d
+               1 File(s)        327,746 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\c3
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM               332 423c1b0318c11ef1fcab5c2f0daadc04eadced
+01/13/2017  07:15 PM               788 bbd5745d35bebda3e16ce18aeff7a4a0ce5ae1
+01/13/2017  07:15 PM             1,002 d8ecce269fe1ccac06ef1bb68ba0a2d0c515b9
+               3 File(s)          2,122 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\c4
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM               240 4e5f466a0de31751b647118a55dd563478815f
+01/13/2017  07:15 PM             2,204 b91112aaaa17a27d5819245b8206a8adcfbbbf
+01/13/2017  07:15 PM               447 fdea3dbd81ef5dee8a1ef493c3261302b3643a
+               3 File(s)          2,891 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\c5
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM               284 77ac84a6a55ef39ff7f4e25d60c3977a902ed1
+01/13/2017  07:15 PM               277 a691246d6dd18761f1dcb3cf5276ebcce4eaec
+               2 File(s)            561 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\c7
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM             1,896 5addaecc29822006bf904abc0d9f0bbaf33965
+01/13/2017  07:15 PM            76,503 b00d2ba8896fd29de846b19f89fcf0d56ad152
+               2 File(s)         78,399 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\c9
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM            20,095 0b813a1e7dbce2a1dbc39e25d35469d680a9a2
+01/13/2017  07:15 PM               195 d646770e2186c73632cbe042d82d1d1acaa25b
+               2 File(s)         20,290 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\ca
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM               274 46d37127c4cf89426ba673acb3c6cc5ff78165
+01/13/2017  07:15 PM           101,387 dcccb32239f6212bbdc1fbf3bff60aaea2aff9
+               2 File(s)        101,661 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\cc
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM             4,568 f939d78561fe974f53775e6fb3dab8655d296f
+               1 File(s)          4,568 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\d2
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM                58 2cd27cbcfb8adb2157ce55a97504a690e4e5f5
+01/13/2017  07:15 PM               223 dcec0a1000b72b182e96e6488f97885a412972
+               2 File(s)            281 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\d4
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM               242 b85a02f24adad8890ad69f7a1db6c7e3ec8a7d
+01/13/2017  07:15 PM           103,548 de13e832d567ff29c5b4e9561b8c370348cc9c
+               2 File(s)        103,790 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\d6
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM            15,039 ec1c01ecc1d49c3e0cb8e9c8e995445880011e
+               1 File(s)         15,039 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\d8
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM           328,940 ac7a1c8ab38d2f98c312d3d88664f2c2f56df1
+01/13/2017  07:15 PM           165,799 eddd7b040b888fde54855f459630c2be00d157
+               2 File(s)        494,739 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\d9
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM           102,321 07b25ae60ec7e3d32e4027aa6e6b7595de97af
+               1 File(s)        102,321 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\db
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM           835,832 fbe96d9179fc127d160c61252ea68bd287906f
+               1 File(s)        835,832 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\df
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM             3,727 91f5645f78369039bc946e76565af05f536232
+               1 File(s)          3,727 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\e2
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM         1,141,265 197823ac406da64db423623022f5f9f802f7ac
+               1 File(s)      1,141,265 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\e3
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM           509,634 406ddaca3b901d687be129bf3652a4d14f805f
+               1 File(s)        509,634 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\e8
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM            39,395 36475870da67f3c72f64777c6e0f37d9f4c87b
+01/13/2017  07:15 PM             3,308 d42e8b075dfd8170d553722486949ace153a59
+               2 File(s)         42,703 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\ec
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM             5,660 53d4d6d5bf13db8ca757ea991a9c7839f23c89
+               1 File(s)          5,660 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\ed
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM        23,183,905 01811111e46dcf7cf85ce8089ada7f106aab91
+01/13/2017  07:15 PM            25,195 3905e0e0c91d4ed7d8aa14412dffeb038745ff
+01/13/2017  07:15 PM           450,899 42f92b2586caf6be91eeaed7ca3609f5b5d5ba
+01/13/2017  07:15 PM               208 c383b85ee8da903c2e7104646dcab8e09b7499
+               4 File(s)     23,660,207 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\ef
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM                51 0aee1fbbefbdf329a21f873b05887f8f747069
+01/13/2017  07:15 PM               125 5ec456e78213eae9cca646942a5ee722e18a4c
+01/13/2017  07:15 PM               501 c3632a10c8518f6694ee7acec89798b49d9a19
+               3 File(s)            677 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\f0
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM        16,409,225 48c8acc049655e57984d04c6e7403b5d962b95
+01/13/2017  07:15 PM         1,268,477 93a2b45457e97dc5d3cfc64cd8d9523b3c8ff6
+               2 File(s)     17,677,702 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\f1
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM               242 c8ad75f52bbc6c84a6dc3a341fe39e8d3edfd4
+               1 File(s)            242 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\f2
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM            96,162 21e50a2ef60738ba30932d834530cdfe55cb3e
+               1 File(s)         96,162 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\f3
+
+01/13/2017  07:25 PM    <DIR>          .
+01/13/2017  07:25 PM    <DIR>          ..
+01/13/2017  07:15 PM               226 00c092ce883cd013a12ab11fcc988b16fa301d
+01/13/2017  07:25 PM               404 2277abeec2d22e9fcc5d4db33423863704ed03
+               2 File(s)            630 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\f6
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM               233 ba81475b92355723f0dc12767f715995a34162
+01/13/2017  07:15 PM            78,393 d40846c1d88b1ac5ea9521ef30b5e75d3ac92e
+               2 File(s)         78,626 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\f9
+
+01/13/2017  07:25 PM    <DIR>          .
+01/13/2017  07:25 PM    <DIR>          ..
+01/13/2017  07:15 PM        17,109,081 c78dc21d05451e3f0e38dab73a4fa258ead91e
+01/13/2017  07:25 PM               181 ef8aa0b6e7b86f7674bb45fd48e2c766be6dd9
+               2 File(s)     17,109,262 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\fc
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM               236 53fb0e7ab49594e1eac97208c32a290558efeb
+               1 File(s)            236 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\fd
+
+01/13/2017  07:15 PM    <DIR>          .
+01/13/2017  07:15 PM    <DIR>          ..
+01/13/2017  07:15 PM               278 21c3515e33c89865c375f27fa8793d47a40071
+01/13/2017  07:15 PM                85 de8d75a9fd623bf9b0b3d86b9771710d785bcc
+               2 File(s)            363 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\info
+
+01/13/2017  07:14 PM    <DIR>          .
+01/13/2017  07:14 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\objects\pack
+
+01/13/2017  07:14 PM    <DIR>          .
+01/13/2017  07:14 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\refs
+
+01/13/2017  07:14 PM    <DIR>          .
+01/13/2017  07:14 PM    <DIR>          ..
+01/13/2017  07:25 PM    <DIR>          heads
+01/13/2017  07:14 PM    <DIR>          tags
+               0 File(s)              0 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\refs\heads
+
+01/13/2017  07:25 PM    <DIR>          .
+01/13/2017  07:25 PM    <DIR>          ..
+01/13/2017  07:25 PM                41 master
+               1 File(s)             41 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\.git\refs\tags
+
+01/13/2017  07:14 PM    <DIR>          .
+01/13/2017  07:14 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\css
+
+01/09/2017  01:20 PM    <DIR>          .
+01/09/2017  01:20 PM    <DIR>          ..
+01/11/2017  09:02 PM            16,439 agency.css
+01/06/2017  04:59 PM            13,188 agency.min.css
+               2 File(s)         29,627 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\font-awesome
+
+01/09/2017  01:11 PM    <DIR>          .
+01/09/2017  01:11 PM    <DIR>          ..
+01/09/2017  01:11 PM    <DIR>          css
+01/09/2017  01:11 PM    <DIR>          fonts
+01/09/2017  01:11 PM    <DIR>          less
+01/09/2017  01:11 PM    <DIR>          scss
+               0 File(s)              0 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\font-awesome\css
+
+01/09/2017  01:11 PM    <DIR>          .
+01/09/2017  01:11 PM    <DIR>          ..
+08/18/2016  11:34 PM            26,651 font-awesome.css
+08/18/2016  11:34 PM            21,984 font-awesome.min.css
+               2 File(s)         48,635 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\font-awesome\fonts
+
+01/09/2017  01:11 PM    <DIR>          .
+01/09/2017  01:11 PM    <DIR>          ..
+08/18/2016  11:34 PM            56,006 fontawesome-webfont.eot
+08/18/2016  11:34 PM           287,007 fontawesome-webfont.svg
+08/18/2016  11:34 PM           112,160 fontawesome-webfont.ttf
+08/18/2016  11:34 PM            65,452 fontawesome-webfont.woff
+08/18/2016  11:34 PM            85,908 FontAwesome.otf
+               5 File(s)        606,533 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\font-awesome\less
+
+01/09/2017  01:11 PM    <DIR>          .
+01/09/2017  01:11 PM    <DIR>          ..
+08/18/2016  11:34 PM               330 bordered-pulled.less
+08/18/2016  11:34 PM               418 core.less
+08/18/2016  11:34 PM               119 fixed-width.less
+08/18/2016  11:34 PM               465 font-awesome.less
+08/18/2016  11:34 PM            34,455 icons.less
+08/18/2016  11:34 PM               370 larger.less
+08/18/2016  11:34 PM               377 list.less
+08/18/2016  11:34 PM               892 mixins.less
+08/18/2016  11:34 PM               684 path.less
+08/18/2016  11:34 PM               622 rotated-flipped.less
+08/18/2016  11:34 PM               582 spinning.less
+08/18/2016  11:34 PM               476 stacked.less
+08/18/2016  11:34 PM            15,529 variables.less
+              13 File(s)         55,319 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\font-awesome\scss
+
+01/09/2017  01:11 PM    <DIR>          .
+01/09/2017  01:11 PM    <DIR>          ..
+08/18/2016  11:34 PM               405 font-awesome.scss
+08/18/2016  11:34 PM               332 _bordered-pulled.scss
+08/18/2016  11:34 PM               419 _core.scss
+08/18/2016  11:34 PM               120 _fixed-width.scss
+08/18/2016  11:34 PM            35,004 _icons.scss
+08/18/2016  11:34 PM               375 _larger.scss
+08/18/2016  11:34 PM               378 _list.scss
+08/18/2016  11:34 PM               906 _mixins.scss
+08/18/2016  11:34 PM               695 _path.scss
+08/18/2016  11:34 PM               672 _rotated-flipped.scss
+08/18/2016  11:34 PM               583 _spinning.scss
+08/18/2016  11:34 PM               482 _stacked.scss
+08/18/2016  11:34 PM            15,592 _variables.scss
+              13 File(s)         55,963 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\fonts
+
+01/09/2017  01:11 PM    <DIR>          .
+01/09/2017  01:11 PM    <DIR>          ..
+08/18/2016  11:34 PM            20,127 glyphicons-halflings-regular.eot
+08/18/2016  11:34 PM           108,738 glyphicons-halflings-regular.svg
+08/18/2016  11:34 PM            45,404 glyphicons-halflings-regular.ttf
+08/18/2016  11:34 PM            23,424 glyphicons-halflings-regular.woff
+08/18/2016  11:34 PM            18,028 glyphicons-halflings-regular.woff2
+               5 File(s)        215,721 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\icon
+
+01/06/2017  05:09 PM    <DIR>          .
+01/06/2017  05:09 PM    <DIR>          ..
+01/06/2017  05:09 PM           361,813 logo.ai
+               1 File(s)        361,813 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\img
+
+01/13/2017  07:23 PM    <DIR>          .
+01/13/2017  07:23 PM    <DIR>          ..
+01/12/2017  12:51 PM           410,881 header-bg.jpg
+01/12/2017  01:13 PM           475,613 header-bg0.jpg
+01/13/2017  07:22 PM    <DIR>          logos
+08/19/2016  01:37 PM           364,038 map-image2.png
+01/13/2017  07:22 PM    <DIR>          portfolio
+01/13/2017  07:22 PM    <DIR>          team
+               3 File(s)      1,250,532 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\img\logos
+
+01/13/2017  07:22 PM    <DIR>          .
+01/13/2017  07:22 PM    <DIR>          ..
+08/19/2016  01:37 PM             2,063 aetuts.jpg
+08/19/2016  01:37 PM             1,766 creative-market.jpg
+08/19/2016  01:37 PM             1,696 designmodo.jpg
+08/19/2016  01:37 PM             2,040 envato.jpg
+08/19/2016  01:37 PM             2,293 microlancer.jpg
+01/11/2017  08:44 PM             2,563 piubello.png
+08/19/2016  01:37 PM             1,689 themeforest.jpg
+08/19/2016  01:37 PM             2,458 wordpress.jpg
+               8 File(s)         16,568 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\img\portfolio
+
+01/13/2017  07:22 PM    <DIR>          .
+01/13/2017  07:22 PM    <DIR>          ..
+01/12/2017  01:54 PM           951,512 banheira-big.png
+01/12/2017  11:07 AM           187,357 banheira.png
+01/12/2017  01:57 PM           509,468 divisorias-big.png
+01/12/2017  11:23 AM           101,543 divisorias.png
+01/12/2017  11:15 AM           117,532 divisorias2.png
+01/12/2017  11:18 AM            78,557 divisorias3.png
+01/12/2017  02:00 PM           402,914 forro-big.png
+01/12/2017  11:33 AM            88,927 forro.png
+01/12/2017  02:12 PM         1,268,083 laminado-big.png
+01/12/2017  11:45 AM           214,885 laminado.png
+01/12/2017  02:06 PM           754,572 papel-big.png
+01/12/2017  12:14 PM           179,338 papel.png
+01/12/2017  02:18 PM         1,315,796 pastilhas-big.png
+01/12/2017  12:36 PM           238,036 pastilhas.png
+01/12/2017  12:17 PM           200,166 pastilhas2.png
+01/12/2017  12:16 PM           236,128 pastilhas3.png
+01/12/2017  02:09 PM         1,141,037 persianas-big.png
+01/12/2017  11:48 AM           171,444 persianas.png
+01/12/2017  11:49 AM           224,920 persianas2.png
+01/12/2017  02:22 PM           937,487 portas-big.png
+01/12/2017  12:41 PM           135,445 portas.png
+01/12/2017  02:30 PM           835,590 revestimento-big.png
+01/12/2017  12:09 PM           133,183 revestimento.png
+01/12/2017  12:06 PM           202,821 revestimento2.png
+              24 File(s)     10,626,741 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\img\team
+
+01/13/2017  07:22 PM    <DIR>          .
+01/13/2017  07:22 PM    <DIR>          ..
+01/11/2017  08:17 PM            31,022 1.jpg
+01/11/2017  08:18 PM            28,034 2.jpg
+01/11/2017  08:20 PM            22,810 3.jpg
+01/11/2017  08:20 PM            19,601 4.jpg
+01/11/2017  08:19 PM            23,928 5.jpg
+01/11/2017  08:19 PM            20,222 6.jpg
+               6 File(s)        145,617 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\js
+
+01/09/2017  01:20 PM    <DIR>          .
+01/09/2017  01:20 PM    <DIR>          ..
+08/19/2016  01:37 PM               882 agency.js
+08/19/2016  01:37 PM               633 agency.min.js
+08/19/2016  01:37 PM             2,910 contact_me.js
+08/19/2016  01:37 PM            36,171 jqBootstrapValidation.js
+               4 File(s)         40,596 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\less
+
+08/19/2016  01:37 PM    <DIR>          .
+08/19/2016  01:37 PM    <DIR>          ..
+08/19/2016  01:37 PM            15,828 agency.less
+08/19/2016  01:37 PM             1,314 mixins.less
+01/06/2017  04:59 PM               417 variables.less
+               3 File(s)         17,559 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\mail
+
+08/19/2016  01:37 PM    <DIR>          .
+08/19/2016  01:37 PM    <DIR>          ..
+01/12/2017  01:37 PM             1,232 contact_me.php
+               1 File(s)          1,232 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\scss
+
+08/19/2016  01:37 PM    <DIR>          .
+08/19/2016  01:37 PM    <DIR>          ..
+08/19/2016  01:37 PM            16,020 agency.scss
+08/19/2016  01:37 PM             1,726 _mixins.scss
+01/06/2017  04:59 PM               440 _variables.scss
+               3 File(s)         18,186 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\vendor
+
+08/19/2016  01:37 PM    <DIR>          .
+08/19/2016  01:37 PM    <DIR>          ..
+08/19/2016  01:37 PM    <DIR>          bootstrap
+08/19/2016  01:37 PM    <DIR>          font-awesome
+08/19/2016  01:37 PM    <DIR>          jquery
+               0 File(s)              0 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\vendor\bootstrap
+
+08/19/2016  01:37 PM    <DIR>          .
+08/19/2016  01:37 PM    <DIR>          ..
+08/19/2016  01:37 PM    <DIR>          css
+08/19/2016  01:37 PM    <DIR>          fonts
+08/19/2016  01:37 PM    <DIR>          js
+               0 File(s)              0 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\vendor\bootstrap\css
+
+08/19/2016  01:37 PM    <DIR>          .
+08/19/2016  01:37 PM    <DIR>          ..
+08/19/2016  01:37 PM           146,010 bootstrap.css
+08/19/2016  01:37 PM           121,200 bootstrap.min.css
+               2 File(s)        267,210 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\vendor\bootstrap\fonts
+
+08/19/2016  01:37 PM    <DIR>          .
+08/19/2016  01:37 PM    <DIR>          ..
+08/19/2016  01:37 PM            20,127 glyphicons-halflings-regular.eot
+08/19/2016  01:37 PM           108,738 glyphicons-halflings-regular.svg
+08/19/2016  01:37 PM            45,404 glyphicons-halflings-regular.ttf
+08/19/2016  01:37 PM            23,424 glyphicons-halflings-regular.woff
+08/19/2016  01:37 PM            18,028 glyphicons-halflings-regular.woff2
+               5 File(s)        215,721 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\vendor\bootstrap\js
+
+08/19/2016  01:37 PM    <DIR>          .
+08/19/2016  01:37 PM    <DIR>          ..
+08/19/2016  01:37 PM            69,707 bootstrap.js
+08/19/2016  01:37 PM            37,045 bootstrap.min.js
+               2 File(s)        106,752 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\vendor\font-awesome
+
+08/19/2016  01:37 PM    <DIR>          .
+08/19/2016  01:37 PM    <DIR>          ..
+08/19/2016  01:37 PM    <DIR>          css
+08/19/2016  01:37 PM    <DIR>          fonts
+08/19/2016  01:37 PM    <DIR>          less
+08/19/2016  01:37 PM    <DIR>          scss
+               0 File(s)              0 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\vendor\font-awesome\css
+
+08/19/2016  01:37 PM    <DIR>          .
+08/19/2016  01:37 PM    <DIR>          ..
+08/19/2016  01:37 PM            35,134 font-awesome.css
+08/19/2016  01:37 PM            29,063 font-awesome.min.css
+               2 File(s)         64,197 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\vendor\font-awesome\fonts
+
+08/19/2016  01:37 PM    <DIR>          .
+08/19/2016  01:37 PM    <DIR>          ..
+08/19/2016  01:37 PM            76,518 fontawesome-webfont.eot
+08/19/2016  01:37 PM           391,622 fontawesome-webfont.svg
+08/19/2016  01:37 PM           152,796 fontawesome-webfont.ttf
+08/19/2016  01:37 PM            90,412 fontawesome-webfont.woff
+08/19/2016  01:37 PM            71,896 fontawesome-webfont.woff2
+08/19/2016  01:37 PM           124,988 FontAwesome.otf
+               6 File(s)        908,232 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\vendor\font-awesome\less
+
+08/19/2016  01:37 PM    <DIR>          .
+08/19/2016  01:37 PM    <DIR>          ..
+08/19/2016  01:37 PM               713 animated.less
+08/19/2016  01:37 PM               585 bordered-pulled.less
+08/19/2016  01:37 PM               452 core.less
+08/19/2016  01:37 PM               119 fixed-width.less
+08/19/2016  01:37 PM               495 font-awesome.less
+08/19/2016  01:37 PM            46,249 icons.less
+08/19/2016  01:37 PM               370 larger.less
+08/19/2016  01:37 PM               377 list.less
+08/19/2016  01:37 PM             1,603 mixins.less
+08/19/2016  01:37 PM               771 path.less
+08/19/2016  01:37 PM               622 rotated-flipped.less
+08/19/2016  01:37 PM               118 screen-reader.less
+08/19/2016  01:37 PM               476 stacked.less
+08/19/2016  01:37 PM            20,890 variables.less
+              14 File(s)         73,840 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\vendor\font-awesome\scss
+
+08/19/2016  01:37 PM    <DIR>          .
+08/19/2016  01:37 PM    <DIR>          ..
+08/19/2016  01:37 PM               430 font-awesome.scss
+08/19/2016  01:37 PM               715 _animated.scss
+08/19/2016  01:37 PM               592 _bordered-pulled.scss
+08/19/2016  01:37 PM               459 _core.scss
+08/19/2016  01:37 PM               120 _fixed-width.scss
+08/19/2016  01:37 PM            46,979 _icons.scss
+08/19/2016  01:37 PM               375 _larger.scss
+08/19/2016  01:37 PM               378 _list.scss
+08/19/2016  01:37 PM             1,637 _mixins.scss
+08/19/2016  01:37 PM               783 _path.scss
+08/19/2016  01:37 PM               672 _rotated-flipped.scss
+08/19/2016  01:37 PM               134 _screen-reader.scss
+08/19/2016  01:37 PM               482 _stacked.scss
+08/19/2016  01:37 PM            20,971 _variables.scss
+              14 File(s)         74,727 bytes
+
+ Directory of G:\_Luciane Campagnin\_Documents\Clientes\Pi— Bello\Front end\site_piubello\vendor\jquery
+
+08/19/2016  01:37 PM    <DIR>          .
+08/19/2016  01:37 PM    <DIR>          ..
+08/19/2016  01:37 PM           293,430 jquery.js
+08/19/2016  01:37 PM            97,163 jquery.min.js
+               2 File(s)        390,593 bytes
+
+     Total Files Listed:
+             338 File(s)    156,402,152 bytes
+             473 Dir(s)  489,236,094,976 bytes free
