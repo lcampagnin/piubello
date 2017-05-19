@@ -1,8 +1,59 @@
-/*!
- * Start Bootstrap - Agency v3.3.7+1 (http://startbootstrap.com/template-overviews/agency)
- * Copyright 2013-2016 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
- */
+
+.thumbnail {
+  position: absolute;
+  border: 0px;
+  border-radius: 0px;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  align-content: center;
+}
+
+.thumbnail:before {
+  position: absolute;
+  border: 0px;
+  border-radius: 0px;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  content: '';
+}
+
+.thumbnail:hover:after {
+  position: absolute;
+  transition-duration: 0.3s;
+  background-color: rgba(228, 195, 33, 0.9);
+}
+
+body {
+  padding-top: 50px;
+}
+
+.thumbnail {
+    position:relative;
+    overflow:hidden;
+}
+
+.caption {
+    position:absolute;
+    top:0;
+    right:0;
+    background:rgba(66, 139, 202, 0.75);
+    width:100%;
+    height:100%;
+    padding:2%;
+    display: none;
+    text-align:center;
+    color:#fff !important;
+    z-index:2;
+}
+/* end portfolioservice */
+
+.carousel-caption {
+  margin-bottom: 50%;
+}
 
 .attendance {
   text-align: center;
@@ -16,7 +67,6 @@
   text-align: center;
   background-color: #222;
   padding:50px;
-
 }
 
 
@@ -79,6 +129,9 @@ h6 {
   background-color: #eeeeee;
 }
 
+.img-circle {
+  padding: 0px;
+}
 
 .bg-light-yellow {
   background-color: #E4C321;
@@ -187,6 +240,7 @@ fieldset[disabled] .btn-xl.active {
   color: #E4C321;
   font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, cursive;
   padding-top: 5px;
+  font-weight: 600;
 }
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus,
@@ -201,6 +255,7 @@ fieldset[disabled] .btn-xl.active {
   background-color: #E4C321;
   border-color: #E4C321;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 600;
   text-transform: uppercase;
   color: white;
   font-size: 12px;
@@ -212,7 +267,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-custom .nav li a {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
-  font-weight: 300;
+  font-weight: 600;
   letter-spacing: 1px;
   color: white;
 }

@@ -24,6 +24,9 @@
     <script src="js/jqBootstrapValidation.js"></script>
     <script src="js/contact_me.js"></script>
 
+    <!-- Lightbox -->
+    <link href="js/portfolio-service.js" rel="stylesheet">
+
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
@@ -39,13 +42,6 @@
     <link href="css/agency.min.css" rel="stylesheet">
     <link href="css/agency.css" rel="stylesheet">
 
-
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
 
 </head>
 
@@ -79,11 +75,11 @@
                     </li>
 
                     <li>
-                      <a class="page-scroll" href="#instalations">Portfolio</a>
+                      <a class="page-scroll" href="#portfolio">Produtos</a>
                     </li>
 
                     <li>
-                      <a class="page-scroll" href="#portfolio">Produtos</a>
+                      <a class="page-scroll" href="#portfolioservice">Portfolio</a>
                     </li>
 
                     <li>
@@ -91,7 +87,7 @@
                     </li>
 
                     <li>
-                      <a class="page-scroll" href="#partners">Parceiros</a>
+                      <a class="page-scroll" href="#partners">Marcas</a>
                     </li>
 
                     <li>
@@ -120,10 +116,16 @@
        <div class="carousel-inner" role="listbox">
          <div class="item active">
            <img src="img\carousel\carousel-01.jpg" class="img-responsive" alt="#">
+             <div class="carousel-caption">
+               <h3></h3>
+               <p></p>
+             </div>
          </div>
 
          <div class="item">
            <img src="img\carousel\carousel-02.jpg" class="img-responsive" alt="#">
+           <div class="carousel-caption">
+           </div>
          </div>
 
          <div class="item">
@@ -154,13 +156,10 @@
         <span class="sr-only">Next</span>
       </a>
 
-
-
-
     </header>
 
     <!-- About Section -->
-    <section id="about">
+    <section id="about" class="bg-light-gray">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
@@ -190,7 +189,7 @@
     </section>
 
     <!-- Services Section -->
-    <section id="services" class="bg-light-gray">
+    <section id="services">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
@@ -229,13 +228,13 @@
         </div>
     </section>
 
-    <!-- Portfolio Grid Section -->
-    <section id="portfolio">
+    <!-- Productos -->
+    <section id="portfolio" class="bg-light-gray">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">Produtos</h2>
-                    <h3 class="section-subheading text-muted">Marcas renomadas no mercado e produtos de qualidadde.</h3>
+                    <h3 class="section-subheading text-muted">Marcas renomadas no mercado e produtos de qualidade.</h3>
                 </div>
             </div>
 
@@ -353,9 +352,82 @@
                         <h4>Portas Sanfonadas</h4>
                     </div>
                 </div>
-
             </div>
     </section>
+
+    <!-- Porfolio of projects and products -->
+    <section id="portfolioservice">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Serviços Realizados</h2>
+                    <h3 class="section-subheading text-muted">Confira o nosso portfolio de serviços e projetos realizados.</h3>
+                </div>
+            </div>
+
+            <div class="row">
+              <div class="col-lg-4">
+                <div class="thumbnail">
+                  <img src="img/portfolio/port-service1.png" class="img-responsive" alt="">
+                </div>
+              </div>
+
+              <div class="col-lg-4">
+                <div class="thumbnail">
+                  <img src="img/portfolio/port-service2.png" class="img-responsive" alt="">
+                </div>
+              </div>
+
+              <div class="col-lg-4">
+                <div class="thumbnail">
+                  <img src="img/portfolio/port-service3.png" class="img-responsive" alt="">
+                </div>
+              </div>
+            </div> <!--end of first line-->
+
+            <div class="row">
+              <div class="col-lg-4">
+                <div class="thumbnail">
+                  <img src="img/portfolio/port-service4.png" class="img-responsive" alt="">
+                </div>
+              </div>
+
+              <div class="col-lg-4">
+                <div class="thumbnail">
+                  <img src="img/portfolio/port-service5.png" class="img-responsive" alt="">
+                </div>
+              </div>
+
+              <div class="col-lg-4">
+                <div class="thumbnail">
+                  <img src="img/portfolio/port-service6.png" class="img-responsive" alt="">
+                </div>
+              </div>
+            </div> <!--end of first line-->
+
+            <div class="row">
+              <div class="col-lg-4">
+                <div class="thumbnail">
+                  <img src="img/portfolio/port-service7.png" class="img-responsive" alt="">
+                </div>
+              </div>
+
+              <div class="col-lg-4">
+                <div class="thumbnail">
+                  <img src="img/portfolio/port-service8.png" class="img-responsive" alt="">
+                </div>
+              </div>
+
+              <div class="col-lg-4">
+                <div class="thumbnail">
+                  <img src="img/portfolio/port-service9.png" class="img-responsive" alt="">
+                </div>
+              </div>
+            </div> <!--end of first line-->
+
+        </div>
+    </section>
+
 
     <!-- Team Section -->
     <section id="team" class="bg-light-gray">
@@ -425,81 +497,108 @@
 
         <div class="row">
           <div class="col-md-3 col-sm-6">
-            <a href="#">
-            <img src="img/logos/envato.jpg" class="img-responsive img-centered" alt="">
+            <a href="http://www.duratexmadeira.com.br/a-duratex/D5" target="_blank">
+            <img src="img/logos/1_duraflor.jpg" class="img-responsive img-centered" >
             </a>
           </div>
 
           <div class="col-md-3 col-sm-6">
-            <a href="#">
-            <img src="img/logos/envato.jpg" class="img-responsive img-centered" alt="">
+            <a href="http://www.duratex-madeira.com.br" target="_blank">
+            <img src="img/logos/02_eucatex.jpg" class="img-responsive img-centered" >
             </a>
           </div>
 
           <div class="col-md-3 col-sm-6">
-            <a href="#">
-            <img src="img/logos/envato.jpg" class="img-responsive img-centered" alt="">
+            <a href="http://floorest.com.br/pt/home/" target="_blank">
+            <img src="img/logos/3_florest.jpg" class="img-responsive img-centered" >
             </a>
           </div>
 
           <div class="col-md-3 col-sm-6">
-            <a href="#">
-            <img src="img/logos/envato.jpg" class="img-responsive img-centered" alt="">
+            <a href="http://www.plasbil.com.br/" target="_blank">
+            <img src="img/logos/4_plasbil.jpg" class="img-responsive img-centered" >
             </a>
           </div>
+
         </div>
 
         <div class="row">
           <div class="col-md-3 col-sm-6">
-            <a href="#">
-            <img src="img/logos/envato.jpg" class="img-responsive img-centered" alt="">
+            <a href="http://www.quick-step.com.br/" target="_blank">
+            <img src="img/logos/5_quick-step.jpg" class="img-responsive img-centered" >
             </a>
           </div>
 
           <div class="col-md-3 col-sm-6">
-            <a href="#">
-            <img src="img/logos/envato.jpg" class="img-responsive img-centered" alt="">
+            <a href="http://www.tarkett.com/" target="_blank">
+            <img src="img/logos/6_tarkett.jpg" class="img-responsive img-centered" >
             </a>
           </div>
 
           <div class="col-md-3 col-sm-6">
-            <a href="#">
-            <img src="img/logos/envato.jpg" class="img-responsive img-centered" alt="">
+            <a href="http://www.unilux.com.br/" target="_blank">
+            <img src="img/logos/7_unilux.jpg" class="img-responsive img-centered" >
             </a>
           </div>
 
           <div class="col-md-3 col-sm-6">
-            <a href="#">
-            <img src="img/logos/envato.jpg" class="img-responsive img-centered" alt="">
+            <a href="http://www.lineaplas.com.br/" target="_blank">
+            <img src="img/logos/9_lineaplas.jpg" class="img-responsive img-centered" >
             </a>
           </div>
+       </div>
+
+       <div class="row">
+         <div class="col-md-3 col-sm-6">
+           <a href="http://www.santaluziamolduras.com.br/" target="_blank">
+           <img src="img/logos/10_santa-luzia.png" class="img-responsive img-centered" >
+           </a>
+         </div>
+
+         <div class="col-md-3 col-sm-6">
+           <a href="http://www.bobinex.com.br/" target="_blank">
+           <img src="img/logos/11_bobinex.jpg" class="img-responsive img-centered" >
+           </a>
+         </div>
+
+         <div class="col-md-3 col-sm-6">
+           <a href="http://kantai.com.br/" target="_blank">
+           <img src="img/logos/12_kantai.jpg" class="img-responsive img-centered" >
+           </a>
+         </div>
+
+         <div class="col-md-3 col-sm-6">
+           <a href="" target="_blank">
+           <img src="img/logos/13_milano-city.jpg" class="img-responsive img-centered" >
+           </a>
+         </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-3 col-sm-6">
+          <a href="http://www.portodesign.com.br/" target="_blank">
+          <img src="img/logos/14_porto-design.jpg" class="img-responsive img-centered" >
+          </a>
         </div>
 
-        <div class="row">
-          <div class="col-md-3 col-sm-6">
-            <a href="#">
-            <img src="img/logos/envato.jpg" class="img-responsive img-centered" alt="">
-            </a>
-          </div>
-
-          <div class="col-md-3 col-sm-6">
-            <a href="#">
-            <img src="img/logos/envato.jpg" class="img-responsive img-centered" alt="">
-            </a>
-          </div>
-
-          <div class="col-md-3 col-sm-6">
-            <a href="#">
-            <img src="img/logos/envato.jpg" class="img-responsive img-centered" alt="">
-            </a>
-          </div>
-
-          <div class="col-md-3 col-sm-6">
-            <a href="#">
-            <img src="img/logos/envato.jpg" class="img-responsive img-centered" alt="">
-            </a>
-          </div>
+        <div class="col-md-3 col-sm-6">
+          <a href="" target="_blank">
+          <img src="img/logos/15_tropicalia.jpg" class="img-responsive img-centered" >
+          </a>
         </div>
+
+        <div class="col-md-3 col-sm-6">
+          <a href="http://www.vtop.com.br/" target="_blank">
+          <img src="img/logos/16_v-top.jpg" class="img-responsive img-centered" >
+          </a>
+        </div>
+
+        <div class="col-md-3 col-sm-6">
+          <a href="www.giengenharia.com.br" target="_blank">
+          <img src="img/logos/8_giengenharia.jpg" class="img-responsive img-centered" >
+          </a>
+        </div>
+     </div>
 
     </section>
 
@@ -566,7 +665,7 @@
           </div>
 
           <div class="attendance">
-             <a href="https://www.google.com/maps/place/R.+Quinze+de+Novembro,+110,+Arroio+Trinta+-+SC,+89590-000,+Brazil/@-26.9305446,-51.3366345,17z/data=!3m1!4b1!4m5!3m4!1s0x94e6aa9105b798d3:0xe63f64485627ad11!8m2!3d-26.9305494!4d-51.3344458">
+             <a href="https://www.google.com/maps/place/R.+Quinze+de+Novembro,+110,+Arroio+Trinta+-+SC,+89590-000,+Brazil/@-26.9305446,-51.3366345,17z/data=!3m1!4b1!4m5!3m4!1s0x94e6aa9105b798d3:0xe63f64485627ad11!8m2!3d-26.9305494!4d-51.3344458" target="_blank">
              Rua XV de Novembro, 110 </i> &nbsp; Centro &nbsp; 89590-000 &nbsp; Arroio Trinta-SC </h6></a>
           </div>
 
@@ -581,13 +680,13 @@
       <div class="row">
         <div class="col-md-12">
           <ul class="list-inline social-buttons">
-              <li><a href="https://www.facebook.com/lojasgec/"><i class="fa fa-facebook"></i></a>
+              <li><a href="https://www.facebook.com/piubelloacabamentos" target="_blank"><i class="fa fa-facebook"></i></a>
               </li>
-              <li><a href="https://plus.google.com/u/0/100250094510083586002"><i class="fa fa-google-plus"></i></a>
+              <li><a href="https://plus.google.com/u/0/100250094510083586002" target="_blank"><i class="fa fa-google-plus"></i></a>
               </li>
-              <li><a href="https://www.instagram.com/piubelloacabamentos/?hl=en"><i class="fa fa-instagram"></i></a>
+              <li><a href="https://www.instagram.com/piubelloacabamentos/?hl=en" target="_blank"><i class="fa fa-instagram"></i></a>
               </li>
-              <li><a href="https://br.linkedin.com/in/più-bello-acabamentos-1902a8136"><i class="fa fa-linkedin"></i></a>
+              <li><a href="https://br.linkedin.com/in/più-bello-acabamentos-1902a8136" target="_blank"><i class="fa fa-linkedin"></i></a>
               </li>
           </ul>
         </div>
@@ -595,7 +694,7 @@
         <div class="col-md-12">
           <ul class="list-inline quicklinks">
             <li> <span class="copyright">Copyright &copy; Più Bello Acabamentos 2017</span></li>
-            <li><a href="https://www.behance.net/lcampagnin"><b>Web Designer</a></b></li>
+            <li><a href="https://www.behance.net/lcampagnin" target="_blank"><b>Web Designer</a></b></li>
           </ul>
         </div>
 
